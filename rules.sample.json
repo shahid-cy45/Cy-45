@@ -1,0 +1,17 @@
+{
+  "adult_keywords": [
+    "adult",
+    "porn",
+    "xxx",
+    "nude",
+    "nsfw"
+  ],
+  "blocked_domains": [
+    "pornhub.com",
+    "xvideos.com"
+  ],
+  "trusted_domains": [
+    "kids.youtube.com",
+    "pbskids.org"
+  ]
+}
