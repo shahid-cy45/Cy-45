@@ -1,0 +1,23 @@
+{
+  "safe_domains": [
+    "kids.youtube.com",
+    "pbskids.org",
+    "khanacademy.org"
+  ],
+  "blocked_domains": [
+    "pornhub.com",
+    "xvideos.com",
+    "xnxx.com"
+  ],
+  "blocked_keywords": [
+    "adult",
+    "porn",
+    "xxx",
+    "nsfw",
+    "nude"
+  ],
+  "blocked_mime_prefixes": [
+    "video/",
+    "image/"
+  ]
+}
